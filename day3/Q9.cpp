@@ -15,6 +15,7 @@ if (n % i == 0) {
  } }}
 if (isPrime)printf("%d is a Prime Number", n);
     else
+    
         printf("%d is Not a Prime Number", n);
 
     return 0;
